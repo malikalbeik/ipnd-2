@@ -1,0 +1,43 @@
+body{
+  margin: 0;
+}
+h1{
+  text-align:center;
+  background-color: #02b3e4;
+  margin:0;
+  padding:1em;
+  color: white;
+}
+section{
+  display: flex;
+}
+div{
+  padding: 1rem;
+  text-align: center;
+  margin: auto;
+  max-width: 250px;
+  height: 250px;
+  width: auto;
+  margin-top: 5%;
+  border-radius: 20px;
+  background-color: rgb(177, 186, 191);
+}
+.headings{
+  font-family:sans-serif;
+}
+footer{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
+footer img{
+  height: 40px;
+  width: 40px;
+}
+.credit{
+  color: red;
+}
